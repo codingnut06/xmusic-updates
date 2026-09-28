@@ -1,9 +1,9 @@
 
 {
-  "latestVersionCode": 2,
-  "latestVersionName": "1.1.0",
-  "apkUrl": "https://github.com/codingnut06/xmusic-updates/releases/download/v1.1.0/Xmusic-v1.1.0-release.apk",
-  "sha256": "PASTE_ACTUAL_64_CHARACTER_SHA256_HASH",
+  "latestVersionCode": 1,
+  "latestVersionName": "1.0",
+  "apkUrl": "https://github.com/codingnut06/xmusic-updates/releases/download/v1.1.0/Xmusic-v1.0-release.apk",
+  "sha256": "sha256:09b6285d2540ae8051fd92e25c3275e21754852d55e749b613e5aab3f2b8fbdc",
   "changelog": [
     "Improved music library scanning",
     "Improved app performance",
@@ -11,6 +11,6 @@
   ],
   "minSupportedVersionCode": 1,
   "mandatory": false,
-  "fileSizeBytes": 15728640,
+  "fileSizeBytes": 16300000,
   "publishedAt": "2026-09-28"
 }
