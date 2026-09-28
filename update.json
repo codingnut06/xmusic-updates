@@ -10,7 +10,7 @@
     "Added secure in-app update system"
   ],
   "minSupportedVersionCode": 1,
-  "mandatory": false,
+  "mandatory": true,
   "fileSizeBytes": 16300000,
   "publishedAt": "2026-09-28"
 }
